@@ -1,1 +1,1 @@
-# C34_template_code
+Plantilla del código C34
